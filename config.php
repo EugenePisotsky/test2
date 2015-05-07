@@ -13,7 +13,7 @@ Config::$values = [
     'db_host' => 'localhost',
     'db_name' => 'test1',
     'login' => 'root',
-    'password' => 'k1wdesinsoft',
+    'password' => '******',
     'default_lang' => 'ru',
     'salt' => 'test_salt_value',
 
